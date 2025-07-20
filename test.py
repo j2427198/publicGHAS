@@ -4,7 +4,6 @@ aws-export-credentials --profile dev
 {
   "Version": 1,
   "AccessKeyId": "ASXXXXXXXXXXXXXEQOZ",
-  "SecretAccessKey": "YvIxxxDv593xxx ...",
-  "SessionToken": "IQoJb3JpZ2luX2VjE ...",
-  "Expiration": "2023-07-28T10:34:03Z"
+  "SecretAccessKey": "YvIxxxDv593xxx",
+
 }
