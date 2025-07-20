@@ -3,7 +3,7 @@ aws-export-credentials --profile dev
 # you should see somthing like this in reposne
 {
   "Version": 1,
-  "AccessKeyId": "ASXXXXXXXXXXXXXEQOZ",
-  "SecretAccessKey": "YvIxxxDv593xxx",
+  "AccessKeyId": "ASHJHJHJHKGYUIOEQOZ",
+  "SecretAccessKey": "YvIKLPODv593PKL",
 
 }
